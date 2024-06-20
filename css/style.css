@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    border-bottom: 1px solid black;
+    text-align: center;
+    padding: 10px 20px;
+    background-color: orange;
+    display: flexbox
+}
+.logopagina{
+    width: auto;
+    height: auto;
+}
+.listanavegador{
+    list-style-type: none;
+}
